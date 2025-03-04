@@ -38,7 +38,7 @@ public class AllDivisorsOfNumber
         for( ;i>=1; i--)
             if(n % i == 0)
                 System.out.print(n/i + " ");
-    }
+    } //TC :- O(Sqrt(n))
 
 
     public static void main(String[] args) {
