@@ -40,7 +40,6 @@ public class AllDivisorsOfNumber
                 System.out.print(n/i + " ");
     } //TC :- O(Sqrt(n))
 
-
     public static void main(String[] args) {
         int n = 30;
         divisorsUsingList(n);
