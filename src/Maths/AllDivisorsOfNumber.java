@@ -41,7 +41,7 @@ public class AllDivisorsOfNumber
     } //TC :- O(Sqrt(n))
 
     public static void main(String[] args) {
-        int n = 30;
+        int n = 176;
         divisorsUsingList(n);
         System.out.println("-----------------------");
         printDivisors(n);
